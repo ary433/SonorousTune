@@ -1,7 +1,7 @@
 import { FC } from 'react';
-import clock from 'src/assets/icons/clock.svg';
-import pin from 'src/assets/icons/pin.svg';
-import { Event } from 'src/types/events.ts';
+import clock from '@/assets/icons/clock.svg';
+import pin from '@/assets/icons/pin.svg';
+import { Event } from '@/types/events';
 
 export const EventCard: FC<Event> = (props) => {
   const { time, location, coverSrc, name } = props;
