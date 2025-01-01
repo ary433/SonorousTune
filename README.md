@@ -141,13 +141,7 @@ flowchart LR
     end
 ```
 
-## 📱 Screenshots
 
-<div align="center">
-<img src="https://res.cloudinary.com/do6yo1hx8/image/upload/v1696706260/IMG_8647_capow3.jpg" alt="Home Screen" width="250"/>
-<img src="https://res.cloudinary.com/do6yo1hx8/image/upload/v1696706255/IMG_8648_vvblzc.jpg" alt="Artist's Profile" width="250"/>
-<img src="https://res.cloudinary.com/do6yo1hx8/image/upload/v1696706249/IMG_8649_ewf2n9.jpg" alt="Purchase NFT" width="250"/>
-</div>
 
 ## 🔗 Important Links
 
