@@ -10,7 +10,7 @@ import tsconfigPaths from 'vite-tsconfig-paths';
 /// <reference types="vite-plugin-svgr/client" />
 export default defineConfig({
   plugins: [svgr(), react(), basicSsl(), nodePolyfills(), tsconfigPaths()],
-  base: 'https://sonoroustune.github.io/sonoroustune-telegram-web-app/',
+  base: '/SonorousTune/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
