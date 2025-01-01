@@ -72,7 +72,9 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: '/sonoroustune-telegram-web-app' },
+  {
+    basename: '/SonorousTune'
+  }
 );
 
 function App() {
